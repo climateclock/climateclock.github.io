@@ -1,8 +1,12 @@
 {
-   "v1-v0": {
-      "url": "https://climateclock.github.io/v1-v0.0e2e3c650f07c30310f8d49d39d0771d.pk",
-      "hash": "0e2e3c650f07c30310f8d49d39d0771d",
-      "published": "2023-01-30T20:18:38Z",
-      "enabled": true
-    }
+  "name": "Action Clock by climateclock.world",
+  "updated": "2022-07-17T18:51:03Z",
+  "packs": {
+    "v1-v0": {
+       "url": "https://climateclock.github.io/v1-v0.0e2e3c650f07c30310f8d49d39d0771d.pk",
+       "hash": "0e2e3c650f07c30310f8d49d39d0771d",
+       "published": "2023-01-30T20:18:38Z",
+       "enabled": true
+     }
+  }
 }
