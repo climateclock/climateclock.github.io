@@ -7,6 +7,12 @@
        "hash": "0e2e3c650f07c30310f8d49d39d0771d",
        "published": "2023-01-30T20:18:38Z",
        "enabled": true
-     }
+     },
+     "v2": {
+      "url": "https://climateclock.github.io/v2.9d9150a1daca7829434b746117cca08e.pk",
+      "hash": "9d9150a1daca7829434b746117cca08e",
+      "published": "2023-04-30T05:19:05Z",
+      "enabled": true
+    }
   }
 }
